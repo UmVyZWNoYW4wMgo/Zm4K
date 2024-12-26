@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Detail Hostibg File
-hosting="https://scvps.rerechanstore.eu.org/website"
+hosting="https://raw.githubusercontent.com/UmVyZWNoYW4wMgo/Zm4K/refs/heads/main"
 
 # Menginstall Package
 apt install apache2 php libapache2-mod-php -y
